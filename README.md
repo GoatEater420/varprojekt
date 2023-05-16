@@ -20,3 +20,6 @@ ledig
 
 väcka 16
 Jag har börjat lite på html koden på vindkrafts sidan av hemsidan.
+
+väcka 20
+jag har gort grid och övertalat dom andra att använda mina färger och min still. (för den var så jävla trevlig)
